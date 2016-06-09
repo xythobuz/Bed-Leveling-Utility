@@ -2,7 +2,7 @@
 
 This is a little graphical helper application for the [Marlin Firmware](https://github.com/MarlinFirmware/Marlin) Manual Mesh Bed Leveling feature.
 
-[!(https://i.imgur.com/s8nG0yI.png)](https://i.imgur.com/s8nG0yI.png)
+[![Screenshot](https://i.imgur.com/s8nG0yI.png)](https://i.imgur.com/s8nG0yI.png)
 
 For more informations take a look at the comments at the beginning of `bed-leveling.py`.
 
